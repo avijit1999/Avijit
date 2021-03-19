@@ -1,40 +1,34 @@
-### Hi there 👋
- 
- # I'm Avijit 
- 
-[![codechef badge](https://img.shields.io/badge/avijitmandal99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/avijitmandal99)
-[![hackerrank badge](https://img.shields.io/badge/avijit_tarapur11-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/avijit_tarapur11)
-![](https://visitor-badge.glitch.me/badge?page_id=avijit1999.avijit1999)  
+<h1 align="center">Hi 👋, I'm Avijit Mandal</h1>
+<h3 align="center">I'm a final year(Third year) CST pursuing Diploma.</h3>
 
-</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit1999&label=Profile%20views&color=0e75b6&style=flat" alt="avijit1999" /> </p>
 
-**I'm a final year(Third year) CST pursuing Diploma and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avijit1999" alt="avijit1999" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/avijitm51046576" target="blank"><img src="https://img.shields.io/twitter/follow/avijitm51046576?logo=twitter&style=for-the-badge" alt="avijitm51046576" /></a> </p>
 
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning DataStructure and Algorithm.
+- 🔭 I’m currently working on [Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
 
-![Avijit's github stats](https://github-readme-stats.vercel.app/api?username=avijit1999&show_icons=true&hide_border=true&hide=["stars"])
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijit1999&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/avijit-mandal1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avijit-mandal1999" height="30" width="40" /></a>
+<a href="https://twitter.com/avijitm51046576" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avijitm51046576" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avijit-mandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avijit-mandal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11888261" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11888261" height="30" width="40" /></a>
+<a href="https://kaggle.com/avijitmandalmintu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="avijitmandalmintu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/avijirmandal99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avijirmandal99" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/avijit_tarapur11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="avijit_tarapur11" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mintu.tarapur1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mintu.tarapur1999" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user6572uk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="user6572uk" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@avijit92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@avijit92" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-# Languages and Tools
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijit1999&show_icons=true&locale=en&layout=compact" alt="avijit1999" /></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  height="50px"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"  height="50px"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  height="50px">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijit1999&show_icons=true&locale=en" alt="avijit1999" /></p>
 
-# Connect with me
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijit1999&" alt="avijit1999" /></p>
 
-<p align="Left">
-<a href="https://github.com/avijit1999" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-<a href="https://twitter.com/@AvijitM51046576" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/avijit-mandal/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</p> 
