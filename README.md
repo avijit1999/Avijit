@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/avijitm51046576" target="blank"><img src="https://img.shields.io/twitter/follow/avijitm51046576?logo=twitter&style=for-the-badge" alt="avijitm51046576" /></a> </p>
 
-- 🔭 I’m currently working on [Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
+- 🔭 I’m worked on [Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
