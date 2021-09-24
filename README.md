@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avijit Mandal</h1>
-<h3 align="center">I'm a final year(Third year) CST pursuing Diploma.</h3>
+<h3 align="center">I'm a 2nd  year CSE pursuing B.Tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit1999&label=Profile%20views&color=0e75b6&style=flat" alt="avijit1999" /> </p>
 
