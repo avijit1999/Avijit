@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avijit1999" alt="avijit1999" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/avijitm51046576" target="blank"><img src="https://img.shields.io/twitter/follow/avijitm51046576?logo=twitter&style=for-the-badge" alt="avijitm51046576" /></a> </p>
-
-- 🔭 I’m worked on [Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/avijit-mandal1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avijit-mandal1999" height="30" width="40" /></a>
