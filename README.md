@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avijit1999" alt="avijit1999" /></a> </p>
 
-<p align="left"> <a href="https://https://twitter.com/AvijitL4" target="blank"><img src="https://img.shields.io/twitter/follow/avijitm51046576?logo=twitter&style=for-the-badge" alt="AvijitL4" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/avijit-mandal1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avijit-mandal1999" height="30" width="40" /></a>
-<a href="https://twitter.com/avijitm51046576" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avijitm51046576" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avijit-mandal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avijit-mandal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11888261" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11888261" height="30" width="40" /></a>
 <a href="https://kaggle.com/avijitmandalmintu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="avijitmandalmintu" height="30" width="40" /></a>
