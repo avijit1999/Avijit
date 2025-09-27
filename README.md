@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avijit Mandal</h1>
-<h3 align="center">I'm a 4th  year CSE pursuing B.Tech.I done 6 month Internship at Bluconnect AI India Private Limited</h3>
+<h3 align="center">I an B.Tech in CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit1999&label=Profile%20views&color=0e75b6&style=flat" alt="avijit1999" /> </p>
 
